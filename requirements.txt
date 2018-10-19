@@ -1,0 +1,3 @@
+The application needs:
+pip3 twilio 
+pip3 flask
